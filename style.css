@@ -1,6 +1,9 @@
 h5{
     color:#140A36;
     background-color: red;
+    padding:5%;
+    margin:5%;
+    margin-bottom: 10%;
 }
 div{
     border:solid black 1px;
