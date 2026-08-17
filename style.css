@@ -16,4 +16,5 @@ h1{
 }
 ul{
     display: flex;
+    justify-content: space-between;
 }
