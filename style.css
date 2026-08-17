@@ -20,4 +20,5 @@ ul{
     width: 40%;
     height: 25vh;
     border:solid black 1px;
+    align-items: center;
 }
